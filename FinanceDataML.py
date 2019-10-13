@@ -11,7 +11,7 @@ from sklearn.linear_model import Perceptron
 from sklearn.linear_model import SGDClassifier
 from sklearn.tree import DecisionTreeClassifier
 
-api_key = "W5BMIZIWT1R06OIS"
+api_key = "_"
 
 #My needed stock
 symbolText = "MSFT"
